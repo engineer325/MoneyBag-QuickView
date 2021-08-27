@@ -38,4 +38,5 @@ These are few resources of this project.
 
 Or an all-together-now sneak preview:
 
-<img src="https://github.com/engineer325/MoneyBag-QuickView/blob/main/parts/background/1.png" width="25px">
+<img src="https://github.com/engineer325/MoneyBag-QuickView/blob/main/parts/background/1.png" width="50px">
+<img src="https://github.com/engineer325/MoneyBag-QuickView/blob/main/parts/background/1.png" width="50px">
