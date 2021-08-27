@@ -38,4 +38,4 @@ These are few resources of this project.
 
 Or an all-together-now sneak preview:
 
-![](i/parts/face/face1.png)
+![](https://github.com/engineer325/MoneyBag-QuickView/blob/main/parts/background/1.png)
