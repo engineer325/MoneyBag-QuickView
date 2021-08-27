@@ -15,6 +15,7 @@ and the last one optional.
 
 For every part there is a matching directory (e.g. `/background`, `/bag`, `/symbol`, `/accessory`) and for every attribute there is a matching image with an index number starting at 1 (e.g. `/background/.png`, `background/2.png`, etc.)
 
+These are few resources of this project.
 ```
 /parts
 ├───background/
@@ -35,3 +36,6 @@ For every part there is a matching directory (e.g. `/background`, `/bag`, `/symb
         3.png
 ```
 
+Or an all-together-now sneak preview:
+
+![](i/parts/face/face1.png)
