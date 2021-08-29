@@ -52,3 +52,7 @@ Or an all-together-now sneak preview:
 ![](https://github.com/engineer325/MoneyBag-QuickView/blob/main/parts/accessory/3.png)
 
 These are generated bags!
+
+![](https://github.com/engineer325/MoneyBag-QuickView/blob/main/collects/1.png)
+![](https://github.com/engineer325/MoneyBag-QuickView/blob/main/collects/2.png)
+![](https://github.com/engineer325/MoneyBag-QuickView/blob/main/collects/3.png)
