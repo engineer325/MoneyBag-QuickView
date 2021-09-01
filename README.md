@@ -10,8 +10,8 @@ A money bag is composed with four parts, that is,
 - Symbol
 - Accessory
 
-The first three parts are always required
-and the last one optional.
+The first three parts are always required and the last one optional.
+Each accessory has different rarity.
 
 For every part there is a matching directory (e.g. `/background`, `/bag`, `/symbol`, `/accessory`) and for every attribute there is a matching image with an index number starting at 1 (e.g. `/background/.png`, `background/2.png`, etc.)
 
